@@ -7,6 +7,9 @@ A minimal **stateful** MCP server that keeps session memory and a simple tool ca
 - Cache repeated tool results for speed
 - Survives restarts (DynamoDB persistence)
 
+<img width="3840" height="2714" alt="Untitled diagram _ Mermaid Chart-2025-08-16-142345" src="https://github.com/user-attachments/assets/fdf7ad71-a482-4dd0-ad8b-da181a44a9f1" />
+
+
 ## Tools
 - `add_note(session_id, note)` – append a note
 - `get_notes(session_id)` – read notes
