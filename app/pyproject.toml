@@ -1,0 +1,14 @@
+
+[project]
+name = "mcp-stateful-dynamodb"
+version = "0.1.0"
+description = "Minimal MCP server with DynamoDB-backed state"
+requires-python = ">=3.10"
+dependencies = [
+  "mcp>=1.2.0",
+  "fastmcp>=0.3.0",
+  "boto3>=1.34.0",
+  "uvicorn>=0.30.0",
+  "pydantic>=2.7.0",
+  "python-dotenv>=1.0.1",
+]
