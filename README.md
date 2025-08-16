@@ -7,7 +7,13 @@ A minimal **stateful** MCP server that keeps session memory and a simple tool ca
 - Cache repeated tool results for speed
 - Survives restarts (DynamoDB persistence)
 
+- <img width="3840" height="1584" alt="Untitled diagram _ Mermaid Chart-2025-08-16-142540" src="https://github.com/user-attachments/assets/e8631109-6dac-4262-9a3a-b0193bcd1b97" />
+
+
 <img width="3840" height="2714" alt="Untitled diagram _ Mermaid Chart-2025-08-16-142345" src="https://github.com/user-attachments/assets/fdf7ad71-a482-4dd0-ad8b-da181a44a9f1" />
+
+<img width="3840" height="2630" alt="Untitled diagram _ Mermaid Chart-2025-08-16-142502" src="https://github.com/user-attachments/assets/edc16f7d-0731-4789-9486-d8a1e103306e" />
+
 
 
 ## Tools
